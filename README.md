@@ -1,2 +1,2 @@
-# Clustering-of-CO-and-NOX-Gas
- Applying various unsupervised techniques to find the Clustering of CO and NOX Gas Emission
+# Clustering of CO and NOx Gas Using K-Means Clustering and DBSCAN
+The project titled "Clustering of CO and NOx Gas Using K-Means Clustering and DBSCAN" focuses on applying unsupervised machine learning algorithms to cluster CO and NOx gas data. It involves using K-Means Clustering and DBSCAN to identify patterns in the data, with a performance comparison between these two methods. The Elbow Method is used to determine the optimal number of clusters for K-Means. The project is implemented in Python using Jupyter Notebook and makes use of libraries like Pandas, NumPy, and Matplotlib for data analysis and visualisation of results.
